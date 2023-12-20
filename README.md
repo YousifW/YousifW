@@ -1,4 +1,4 @@
-👋 Hellooo I am Yousif
+👋 Hellooo I am Yousif (assyrian version: Yosep)
 
 📚  I am currently learning more about Deep Learning<br>
 💼  I like to work on my personal web-portfolio<br>
